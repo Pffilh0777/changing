@@ -1,0 +1,87 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(fonte/Montserrat-Medium.ttf);
+}
+img {
+    border-radius: 10px;
+}
+p {
+    font-weight: normal;
+    font-size: 11px;
+    font-family: Montserrat;
+}
+.textodaspaginas {
+    text-align: justify;
+    width: 1010px;
+    height: 100px;
+    margin: auto;
+}
+#bannerpag1 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#bannerpag2 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#bannerpag3 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#bannerpag4 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#bannerpag5 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#bannerpag6 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#bannerpag7 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#bannerpag8 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#bannerpag9 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#bannerpag10 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.bannerdown {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+mark{
+    background-color: rgb(82, 202, 112);
+}
+footer{
+    font-family: Montserrat;
+    font-size: 10.9px;
+    text-align: center;
+}
+.doar{
+
+    display: flex;
+    justify-content: center;
+    margin: auto; 
+}
